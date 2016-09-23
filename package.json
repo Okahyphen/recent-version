@@ -1,0 +1,25 @@
+{
+	"name": "recent-version",
+	"version": "1.0.0",
+	"description": "Get the most recently published version of a package.",
+	"main": "index.js",
+	"dependencies": {
+		"package-json": "^2.4.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Okahyphen/recent-version.git"
+	},
+	"keywords": [
+		"version",
+		"recent",
+		"package",
+		"semver"
+	],
+	"author": "Colin 'Oka' Hall-Coates <yo@oka.io>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Okahyphen/recent-version/issues"
+	},
+	"homepage": "https://github.com/Okahyphen/recent-version#readme"
+}
